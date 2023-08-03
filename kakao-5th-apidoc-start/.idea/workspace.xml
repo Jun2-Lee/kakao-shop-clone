@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccebd9fd-fb5a-4c05-9617-12f967977298" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup-data-v2/api-pdf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup-data-v2/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup-data-v2/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup-data-v2/카카오테크캠퍼스_API 명세서_초안.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup-data-v2/카카오톡 쇼핑하기_화면설계서.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/application-local.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/KakaoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/config/WebMvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/errors/GeneralExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/errors/GeneralValidationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/errors/exception/Exception400.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/errors/exception/Exception401.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/errors/exception/Exception403.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/errors/exception/Exception404.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/errors/exception/Exception500.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/security/CustomUserDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/security/CustomUserDetailsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/security/JwtAuthenticationFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/security/JwtTokenProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/security/SecurityConfig$CustomSecurityFilterManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/security/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/utils/ApiUtils$ApiError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/utils/ApiUtils$ApiResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/utils/ApiUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/_core/utils/FilterResponseUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/Cart$CartBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartJPARepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartRequest$SaveDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartRequest$UpdateDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartResponse$FindAllDTO$ProductDTO$CartDTO$OptionDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartResponse$FindAllDTO$ProductDTO$CartDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartResponse$FindAllDTO$ProductDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartResponse$FindAllDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartResponse$UpdateDTO$CartDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartResponse$UpdateDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/cart/CartService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/option/Option$OptionBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/option/Option.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/option/OptionJPARepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/option/OptionResponse$FindAllDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/option/OptionResponse$FindByProductIdDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/option/OptionResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/option/OptionRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/option/OptionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/Order$OrderBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/OrderJPARepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/OrderResponse$FindByIdDTO$ProductDTO$ItemDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/OrderResponse$FindByIdDTO$ProductDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/OrderResponse$FindByIdDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/OrderResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/OrderRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/item/Item$ItemBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/item/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/order/item/ItemJPARepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/product/Product$ProductBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/product/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/product/ProductJPARepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/product/ProductResponse$FindAllDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/product/ProductResponse$FindByIdDTO$OptionDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/product/ProductResponse$FindByIdDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/product/ProductResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/product/ProductRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/product/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/StringArrayConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/User$UserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/UserJPARepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/UserRequest$EmailCheckDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/UserRequest$JoinDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/UserRequest$LoginDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/UserRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/UserRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/com/example/kakao/user/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/db/teardown.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/static/docs/api-docs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/static/docs/api-pdf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/integration/AdminControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/integration/CartRestControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/integration/MyRestDoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/integration/OptionRestControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/integration/OrderRestControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/integration/ProductRestControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/integration/UserRestControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/unkown/BeanUtilsTest$CopyUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/unkown/BeanUtilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/com/example/kakao/unkown/StringArrayConverterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docs/asciidoc/api-docs.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/KakaoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/errors/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/errors/GlobalValidationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/errors/exception/Exception400.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/errors/exception/Exception401.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/errors/exception/Exception403.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/errors/exception/Exception404.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/errors/exception/Exception500.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/security/CustomUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/security/CustomUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/security/JWTProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/security/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/security/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/utils/ApiUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/utils/FakeStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/_core/utils/FilterResponseUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/cart/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/cart/CartJPARepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/cart/CartRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/cart/CartResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/cart/CartRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/cart/CartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/log/ErrorLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/log/ErrorLogJPARepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/order/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/order/OrderJPARepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/order/OrderResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/order/OrderRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/order/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/order/item/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/order/item/ItemJPARepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/product/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/product/ProductJPARepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/product/ProductResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/product/ProductRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/product/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/product/option/Option.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/product/option/OptionJPARepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/user/UserJPARepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/user/UserRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/user/UserResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/user/UserRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/kakao/user/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-local.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/teardown.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/docs/api-docs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/kakao/MyRestDoc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/kakao/_core/regex/RegexTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/kakao/_core/util/DummyEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/kakao/cart/CartRestControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/kakao/order/OrderRestControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/kakao/product/ProductRestControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/kakao/user/UserRestControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/startFront.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kakao" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TKTAd0gCVOQfswFN7GCZySScQC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/junhee/Desktop/study/Kakaotech/kakao-shop-clone/kakao-5th-apidoc-start/build.gradle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/kakao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'kakao.test'">
+    <configuration name="OrderRestControllerTest.saveOrder_test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.kakao.order.OrderRestControllerTest.saveOrder_test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'kakao.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserRestControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.kakao.user.UserRestControllerTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserRestControllerTest.회원가입_Password_올바르지않은형태" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.kakao.user.UserRestControllerTest.회원가입_Password_올바르지않은형태&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserRestControllerTest.회원가입_올바르지않은UserName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.kakao.user.UserRestControllerTest.회원가입_올바르지않은UserName&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KakaoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="com.example.kakao.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.kakao.KakaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KakaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="kakao.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.kakao.KakaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'kakao.test'" />
+        <item itemvalue="Gradle.OrderRestControllerTest.saveOrder_test" />
+        <item itemvalue="Gradle.UserRestControllerTest.회원가입_Password_올바르지않은형태" />
+        <item itemvalue="Gradle.UserRestControllerTest.회원가입_올바르지않은UserName" />
+        <item itemvalue="Gradle.UserRestControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccebd9fd-fb5a-4c05-9617-12f967977298" name="Changes" comment="" />
+      <created>1690790629838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690790629838</updated>
+      <workItem from="1690790631000" duration="11465000" />
+      <workItem from="1691042817801" duration="705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

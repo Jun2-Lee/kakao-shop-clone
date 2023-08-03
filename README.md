@@ -1,1 +1,1 @@
-# kakao-shop-clone
+# JPA Repository Test
